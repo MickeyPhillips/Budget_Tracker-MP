@@ -6,7 +6,7 @@ const DATA_CACHE_NAME = 'data-cache-01';
 const FILES_TO_CACHE = [
     "/",
     "./index.html",
-    "./css/style.css",
+    "./css/styles.css",
     "./js/idb.js",
     "./js/index.js",
     "./manifest.json"
